@@ -1,5 +1,5 @@
 document.getElementById('yes').addEventListener('click', function() {
-    document.getElementById('content').innerHTML = '<h1>Yay! On se voit ce soir au restaurant</h1>';
+    document.getElementById('content').innerHTML = '<h1>Bonne réponse!</h1>';
 });
 
 document.getElementById('no').addEventListener('click', function() {
